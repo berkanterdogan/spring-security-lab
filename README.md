@@ -1,4 +1,4 @@
-# SPRING CACHE LAB
+# SPRING SECURITY LAB
 
 This project is a Spring Security Demo project.
 
